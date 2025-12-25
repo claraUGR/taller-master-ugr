@@ -1,6 +1,6 @@
 # Exercise Outcomes Submission Template
 
-**Student/Group Name**: Clara Liang Delgado Gómez 
+**Student/Group Name**: Clara 
 **Level Completed**: newbie 
 **Date**: 25/12/2025
 
