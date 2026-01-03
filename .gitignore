@@ -1,0 +1,13 @@
+# Secretos y llaves (Seguridad)
+.env
+*.pem
+*.key
+security-artifacts/private-key.asc
+
+# Archivos del sistema (macOS)
+.DS_Store
+
+# Dependencias
+node_modules/
+dist/
+build/
